@@ -34,7 +34,7 @@ dataSources:
 templates:
   - kind: ethereum/contract
     name: Pair
-    network: mainnet
+    network: berachain-mainnet
     source:
       abi: Pair
     mapping:
